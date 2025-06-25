@@ -42,7 +42,7 @@ print(id_to_letdown[idx])
 
 ---
 
-## 🧠 What You'll Learn
+## 🧠 What I Learnt
 
 - How word embeddings work at a basic level
 - How to implement a neural network with only NumPy
