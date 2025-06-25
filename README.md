@@ -19,8 +19,8 @@ This notebook demonstrates how to build a simple neural network that learns word
 ---
 
 ## 📝 Example Usage
-**
-One-hot encode a word**
+
+**One-hot encode a word**
 ```
 idx = letdown_to_id["transport"]
 one_hot_vec = one_hot_encode(idx, len(letdown_to_id)).reshape(1, -1)
